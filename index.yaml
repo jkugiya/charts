@@ -1,0 +1,15 @@
+apiVersion: v1
+entries:
+  akka:
+  - apiVersion: v2
+    appVersion: 2.6.5
+    created: "2024-11-15T14:25:04.342319+09:00"
+    description: Build highly concurrent, distributed, and resilient message-driven
+      applications on the JVM
+    digest: 5fae9331a4fc04cd9e4da4e547fbf94f061075ca452ee86b664ccf02e2b7fbae
+    name: akka
+    type: application
+    urls:
+    - https://jkugiya.github.io/charts/akka-0.2.21.tgz
+    version: 0.2.21
+generated: "2024-11-15T14:25:04.337586+09:00"
